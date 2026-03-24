@@ -1,0 +1,73 @@
+
+.hiii{
+     margin: auto;
+     border: 1px solid rgb(85, 7, 7);
+     height: 400px;
+     width: 300px;
+     background-color: rgb(191, 191, 197);
+    border-radius: 15px;
+}
+.frame{
+    margin: auto;
+    border: 1px solid blue;
+    height: 150px;
+    width: 300px;
+    background-color: rgb(9, 9, 124);
+    border-radius: 15px;
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+}
+.photo{
+    margin: auto;
+    border: 1px solid red;
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+    background-color: azure;
+    
+
+}
+#name{
+    text-align: center;
+}
+#status{
+    text-align: center;
+    margin-left: 100px;
+}
+.info{ border: 1px solid black;
+    margin: auto;
+    height: 100px;
+    width: 250px;
+    border-radius: 5px;
+    background-color: rgb(255, 255, 255);
+}
+#cs {   
+        
+          text-align: center;
+}
+#college {
+          text-align: center;
+}
+#email{
+          text-align: center;
+}
+.view
+{
+    border: 1px solid black;
+    margin: auto;
+    height: 30px;
+    width: 80px;
+    border-radius: 10px;
+    background-color: rgb(9, 9, 124);
+}
+#viewmore{ margin: auto;
+    text-align: center;
+    color: aliceblue;
+    font-size: 10px;
+}
+
+.img{
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+}

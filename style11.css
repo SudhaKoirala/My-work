@@ -1,0 +1,48 @@
+h1:hover{
+    color: blue;
+}
+.ee:hover{
+    background-color: pink;
+}
+.tt{
+    height: 150px;
+    width: 150px;
+    color: rgb(6, 6, 6);
+    background-color: bisque;
+    
+}
+button:hover{
+    background-color: rgb(99, 196, 168);
+    color: rgb(246, 240, 240);
+}
+.qe{
+    height: 50px;
+    width: 100px;
+    background-color: rgb(33, 33, 179);
+    color: aliceblue;
+}
+.qe:hover{
+    background-color: black;
+}
+.ww{
+    color: aqua;
+}
+.ww:hover{
+    text-decoration-line: underline;
+    color: black;
+}
+
+
+img{
+    display: none;
+}
+
+
+
+.container:hover .im{
+    display: none;
+}
+
+.container:hover img{
+    display: block;
+}
